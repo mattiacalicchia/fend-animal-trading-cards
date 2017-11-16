@@ -1,0 +1,58 @@
+/* add your CSS here */
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
+
+
+body{
+font-family: 'Comfortaa', cursive;
+
+}
+h2{
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-weight:bold;
+  font-size:200%;
+  text-transform:uppercase;
+  text-align:center;
+}
+.card{
+  padding: 15px;
+  width:382px;
+border-style: groove
+  
+}
+.information{
+  border-left: 6px solid black;
+  background-color: #ccc;
+  padding: 0px 1px 0px 1px;
+}
+figure{
+  padding: 1px;
+  background-color:black;
+  text-align: center;
+  color:white;
+}
+a{
+  color:white;
+  font-weight:bold;
+}
+figcaption{
+  font-size:10px;
+}
+ul {
+  list-style-type: none;
+  background-color:white;
+}
+span{
+font-weight: bold;
+}
+
+.interesting-fact{
+  font-style: italic;
+  text-align:center;
+  background-color:white;
+}
+.description{
+  text-align:justify;
+  letter-spacing: 1px;
+  background-color:white;
+}
